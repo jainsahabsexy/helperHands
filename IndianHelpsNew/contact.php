@@ -74,7 +74,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-6 contact-left">
 					<div class="contact-top">
 						<h4>address </h4>
-						<p>Bhopal, Madhya Pradesh</p>
+						<p>Banglore</p>
 					</div>
 					<div class="contact-bottom">
 
