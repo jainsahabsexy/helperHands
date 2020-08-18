@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-	<title>IndianHelps | Home</title>
+	<title>HelperHands| Home</title>
 	<!-- for-mobile-apps -->
 	<link rel="shortcut icon" href="images/presentation1.png" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -37,7 +37,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/presentation1.png" height="100%" width="100%">
 				</div>
 					<div style="float: right;height: 100px;width: 325px;margin-top: 20px">
-						<center><h1 style="color: midnightblue"><i><b>IndianHelps</b></i></h1></center>
+						<center><h1 style="color: midnightblue"><i><b>IHelperHands</b></i></h1></center>
 						<center><h3 style="color: midnightblue"><i><b>Give Help Get Help</b></i></h3></center>
 					</div>
 
