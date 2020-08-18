@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 <head>
-	<title>IndianHelps | About Us</title>
+	<title>HelpersHand | About Us</title>
 	<!-- for-mobile-apps -->
 	<link rel="shortcut icon" href="images/presentation1.png" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
