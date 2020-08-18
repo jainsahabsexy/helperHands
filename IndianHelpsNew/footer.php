@@ -11,7 +11,7 @@
 							</li>
 							<li>
 								<span class="fa fa-phone" aria-hidden="true"></span>
-								<p>+91 7067172323</p>
+								<p>+91 7019049277</p>
 							</li>
 						</ul>
 					</div>
