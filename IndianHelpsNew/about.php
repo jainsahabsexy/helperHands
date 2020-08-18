@@ -41,7 +41,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<img src="images/presentation1.png" height="100%" width="100%">
 				</div>
 					<div style="float: right;height: 100px;width: 325px;margin-top: 20px">
-						<center><h1 style="color: midnightblue"><i><b>IndianHelps</b></i></h1></center>
+						<center><h1 style="color: midnightblue"><i><b>HelperHands</b></i></h1></center>
 						<center><h3 style="color: midnightblue"><i><b>Give Help Get Help</b></i></h3></center>
 					</div>
 
@@ -56,8 +56,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>	<!-- //header -->
 	<div class="banner-bg2">
 		<div class="banner-info bg3 inner">
-			<h3>About IndianHelps</h3>
-			<p>Details about IndianHelps</p>
+			<h3>About HelperHands</h3>
+			<p>Details about HelperHands</p>
 		</div>
 	</div>
 	<!-- breadcrumbs -->
