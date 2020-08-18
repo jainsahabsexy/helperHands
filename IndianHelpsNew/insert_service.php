@@ -1,7 +1,7 @@
 <?php
+session_start();
 if(isset($_POST['Submit']))
 {
-session_start();
 if(isset($_SESSION['uid']))
 {
 $validate=$_SESSION['uid'];
