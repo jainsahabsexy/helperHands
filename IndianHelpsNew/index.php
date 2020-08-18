@@ -157,7 +157,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 							}
 						</script>
-						<form action="insert_service.php" method="POST" class="banner_form" onsubmit="return myfun()">
+						<form action="insert_service.php" method="POST" class="banner_form">
 							<div class="form-select sec-right">
 								<label class="contact-form-text">Work Type</label>
 								<select name="t1">
