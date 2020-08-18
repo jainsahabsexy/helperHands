@@ -2,7 +2,7 @@
 <html lang="zxx">
 
 <head>
-	<title>IndianHelps | Terms</title>
+	<title>HelperHands | Terms</title>
 	<!-- for-mobile-apps -->
 	<link rel="shortcut icon" href="images/presentation1.png" />
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -74,7 +74,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<h4 class="main-title">Terms and Conditions</h4>
 					<ol start="1">
 <h3><strong>License</strong></h3><br>
-<p><b>These terms and conditions outline the rules and regulations for the use of IndianHelps's Website, located at IndianHelps.com</b></p>
+<p><b>These terms and conditions outline the rules and regulations for the use of HelperHands's Website, located at IndianHelps.com</b></p>
 
 <p><b>By accessing this website we assume you accept these terms and conditions. Do not continue to use IndianHelps if you do not agree to take all of the terms and conditions stated on this page. 
 
@@ -83,20 +83,20 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 <br><h3><strong>License</strong></h3><br>
 
-<p><b>Unless otherwise stated, IndianHelps and/or its licensors own the intellectual property rights for all material on IndianHelps. All intellectual property rights are reserved. You may access this from IndianHelps for your own personal use subjected to restrictions set in these terms and conditions.</b></p>
+<p><b>Unless otherwise stated, HelperHands and/or its licensors own the intellectual property rights for all material on HelperHands. All intellectual property rights are reserved. You may access this from IndianHelps for your own personal use subjected to restrictions set in these terms and conditions.</b></p>
 
 <p><b>You must not:</b></p><br>
-    <p><b>Republish material from IndianHelps</b></p>	
-    <p><b>Sell, rent or sub-license material from IndianHelps</b></p>	
-    <p><b>Reproduce, duplicate or copy material from IndianHelps</b></p>	
-    <p><b>Redistribute content from IndianHelps</b></p>	
+    <p><b>Republish material from HelperHands</b></p>	
+    <p><b>Sell, rent or sub-license material from HelperHands</b></p>	
+    <p><b>Reproduce, duplicate or copy material from HelperHands</b></p>	
+    <p><b>Redistribute content from HelperHands</b></p>	
 <br>
 
 <p><b>This Agreement shall begin on the date hereof.</b></p>
 
-<p><b>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. IndianHelps does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of IndianHelps,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, IndianHelps shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</b></p>
+<p><b>Parts of this website offer an opportunity for users to post and exchange opinions and information in certain areas of the website. HelperHands does not filter, edit, publish or review Comments prior to their presence on the website. Comments do not reflect the views and opinions of IndianHelps,its agents and/or affiliates. Comments reflect the views and opinions of the person who post their views and opinions. To the extent permitted by applicable laws, IndianHelps shall not be liable for the Comments or for any liability, damages or expenses caused and/or suffered as a result of any use of and/or posting of and/or appearance of the Comments on this website.</b></p>
 
-<p><b>IndianHelps reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</b></p>
+<p><b>HelperHands reserves the right to monitor all Comments and to remove any Comments which can be considered inappropriate, offensive or causes breach of these Terms and Conditions.</b></p>
 
 <p><b>You warrant and represent that:</b></p><br>
     <p><b>You are entitled to post the Comments on our website and have all necessary licenses and consents to do so;</b></p>	
@@ -105,13 +105,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     <p><b>The Comments will not be used to solicit or promote business or custom or present commercial activities or unlawful activity.</b></p>	
 <br>
 
-<p><b>You hereby grant IndianHelps a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.</b></p>
+<p><b>You hereby grant HelperHands a non-exclusive license to use, reproduce, edit and authorize others to use, reproduce and edit any of your Comments in any and all forms, formats or media.</b></p>
 
 <br><h3><strong>Harrasment and loss</strong></h3><br>
-<p><b>IndianHelps is not at all responsible for any of your money losses or online frauds. IndianHelps only provide you the link of services and do not demand for any money or valuable thing of yours with which you can be harrased or get in the trap of a fraud. Your Information would be sharable to the users who will be accepting your work. IndianHelps is not at all responsible for any of the follow ups for any of the services. If you are choosing any of the service, we are not at all responsible for any of your actions done to follow up a service.
+<p><b>HelperHands is not at all responsible for any of your money losses or online frauds. HelperHands only provide you the link of services and do not demand for any money or valuable thing of yours with which you can be harrased or get in the trap of a fraud. Your Information would be sharable to the users who will be accepting your work. IndianHelps is not at all responsible for any of the follow ups for any of the services. If you are choosing any of the service, we are not at all responsible for any of your actions done to follow up a service.
 You and your service provider (i.e) the user which will follow you up on your service, will be responsible for any of the harrasment done to you or frauds done to you.
-IndianHelps in any conditions does not demand any money from its registered users for a service follow ups. It is your responsibilty to take money or the incentive described by the provider on the website after completing a service. IndianHelps do not take guarantee of any fraud done to you online or offline or harrasment done to you.
-IndianHelps do not leak any of your data to any third party, but maintains your each and every record for our follow ups. IndianHelps don't take the responsibility of any type of your personal or professional data leak, if your service have been accepted by some user or if you have demanded or requested for a service because your data will be shared among the user who accept your services. IndianHelps is not at all responsible for any of your life losses or physical harrasments done to you. By accepting our terms and conditions, you take all the guarantee on yourselves of all the losses such as money, harrasment, life, frauds, physical harassments and all the other which can / caused you harm. And by accepting the terms and conditions you set IndianHelps free from all such type of guarantee and charges by which you can be harmed mentally, pysically,financially and all under your considerations. </b></p>
+HelperHands in any conditions does not demand any money from its registered users for a service follow ups. It is your responsibilty to take money or the incentive described by the provider on the website after completing a service. IndianHelps do not take guarantee of any fraud done to you online or offline or harrasment done to you.
+HelperHands do not leak any of your data to any third party, but maintains your each and every record for our follow ups. HelperHands don't take the responsibility of any type of your personal or professional data leak, if your service have been accepted by some user or if you have demanded or requested for a service because your data will be shared among the user who accept your services. IndianHelps is not at all responsible for any of your life losses or physical harrasments done to you. By accepting our terms and conditions, you take all the guarantee on yourselves of all the losses such as money, harrasment, life, frauds, physical harassments and all the other which can / caused you harm. And by accepting the terms and conditions you set IndianHelps free from all such type of guarantee and charges by which you can be harmed mentally, pysically,financially and all under your considerations. </b></p>
 
 <br><h3><strong>Hyperlinking to our Content</strong></h3><br>
 
@@ -150,7 +150,7 @@ IndianHelps do not leak any of your data to any third party, but maintains your 
     <p><b>By use of any other description of our Website being linked to that makes sense within the context and format of content on the linking party’s site.</b></p>	
 <br>
 
-<p><b>No use of IndianHelps's logo or other artwork will be allowed for linking absent a trademark license agreement.</b></p>
+<p><b>No use of HelperHands's logo or other artwork will be allowed for linking absent a trademark license agreement.</b></p>
 
 <br><h3><strong>iFrames</strong></h3><br>
 
