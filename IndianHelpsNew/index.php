@@ -285,7 +285,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<input placeholder="Pincode" name="t15" id="pin" type="number">
 								</div>		
 							</div>
-							<input type="Submit" value="Submit" name="Submit">
+							<input type="submit" value="Submit" name="submit">
 						</form>
 					</div>
 					<div class="col-md-8 banner-btm-grid2">
