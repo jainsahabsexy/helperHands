@@ -7,7 +7,7 @@
 						<ul>
 							<li>
 								<span class="fa fa-envelope-o" aria-hidden="true"></span>
-								<a href="mailto:indianhelps.bhopal@gmail.com">IndianHelps.bhopal@gmail.com</a>
+								<a href="mailto:helperhands@gmail.com">HelperHands@gmail.com</a>
 							</li>
 							<li>
 								<span class="fa fa-phone" aria-hidden="true"></span>
@@ -112,7 +112,7 @@
 	</div>
 	<div class="cpy-footer">
 		<div class="cpy-text">
-			<p>© By IndianHelps Bhopal. All Rights Reserved</p>
+			<p>© By Hritik & dhruvika. All Rights Reserved</p>
 		</div>
 
 	</div>
